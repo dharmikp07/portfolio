@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="hero-info pb-5 md:pb-0">
           <h1 className="cers text-4xl lg:text-6xl">
             Hi, <br />I am <span className="text-accent">D</span>harmik <br />
-            Backend Developer
+            Fullstack Developer
           </h1>
 
           <p className="py-5">I am proficient in Java, React.js and PHP</p>
