@@ -1,31 +1,31 @@
 import React from "react";
-import cssProjects from "../assets/cssprojects.png";
-import devlog from "../assets/devlog.png";
-import getInspirred from "../assets/get-inspirred.png";
-import uilogs from "../assets/uilogs.png";
+import dottech from "../assets/dottech.png";
+import echozone from "../assets/echozone.png";
+import tictac from "../assets/tictac.png";
+import facerec from "../assets/facerec.png";
 
 const Projects = () => {
   const projects = [
     {
-      img: devlog,
+      img: echozone,
       title: "echozone",
       desc: " A multi author blog. Built with PHP, SQLite and Tailwind CSS ",
       code: "https://github.com/dharmikp07",
     },
     {
-      img: uilogs,
+      img: facerec,
       title: "Face Recognition Attendance App",
       desc: "A seamless attendance recording process with interactive user verification",
       code: "https://github.com/dharmikp07",
     },
     {
-      img: cssProjects,
+      img: dottech,
       title: "DotTech Site",
       desc: "Designed and developed a comprehensive business website, showcasing proficiency in web design and user interaction.",
       code: "https://github.com/dharmikp07",
     },
     {
-      img: getInspirred,
+      img: tictac,
       title: "Tic Tac Toe Game",
       desc: "Created tic tac toe game for android using java and android studio",
       code: "https://github.com/dharmikp07",

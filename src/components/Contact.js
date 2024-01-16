@@ -13,14 +13,13 @@ const Contact = () => {
         </p>
 
         <p className="py-2">
-          <a href="mailto:dharmikpadhiyar07@gmail.com">
-            <span className="font-bold">Email:</span>{" "}
-            dharmikpadhiyar07@gmail.com
+          <a href="mailto:dharmik0141@gmail.com">
+            <span className="font-bold">Email:</span> dharmik0141@gmail.com
           </a>
         </p>
         <p className="py-2">
           <a href="tel:+919157321591">
-            <span className="font-bold">Phone:</span> +91 9157321591
+            <span className="font-bold">Phone:</span> 9157321591
           </a>
         </p>
       </div>
